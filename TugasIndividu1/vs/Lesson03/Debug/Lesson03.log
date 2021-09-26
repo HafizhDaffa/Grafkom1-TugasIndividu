@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Grafkom1.vcxproj, Lesson02.vcxproj, Lesson03.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu1\TugasIndividu1\vs\Lesson03\Demo.cpp(142,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu1\TugasIndividu1\vs\Lesson03\Demo.cpp(266,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu1\TugasIndividu1\vs\Lesson03\Demo.cpp(389,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu1\TugasIndividu1\vs\Lesson03\Demo.cpp(515,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu1\TugasIndividu1\vs\Lesson03\Demo.cpp(637,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lesson03.vcxproj -> D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu1\TugasIndividu1\vs\Debug\Grafika Komputer.exe
